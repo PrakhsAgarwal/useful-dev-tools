@@ -93,7 +93,7 @@ Desktop Tool | Description
 [Notepad++](https://notepad-plus-plus.org/downloads/) | Text viewer in most languages, easier when you need to open faster code to check something.
 [Compare It!](https://www.grigsoft.com/wincmp3.htm) | Compare texts, indicating the differences. Practical, light and fast.
 [DBeaver](https://dbeaver.io) | Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server...
-[Git Kraken](https://www.gitkraken.com/) | Legendary Git Client for windows, mac and linux. Really practical and robust.
+[Git Kraken](https://www.gitkraken.com/) | Legendary Git Client for windows, mac and linux. Really practical and robust.Its all about open source today
 [Brackets](http://brackets.io/) | An open Source and Modern text editor for web design.
 [Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client.
 [Docker](https://docker.com) | Easily run local linux-based containers.
